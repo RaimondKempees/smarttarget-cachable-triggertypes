@@ -1,0 +1,1 @@
+# smarttarget-cachable-triggertypes
